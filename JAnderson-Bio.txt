@@ -1,0 +1,7 @@
+Name: Jane Anderson
+Role: Sofware Instructor
+DOB: May 11, 1991
+Start: May 1, 2017
+Experienced sofrware instructor with deep knowledge of the following software products:
+Microsoft C# .Net
+Git & Git Hub
